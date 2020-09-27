@@ -1,3 +1,6 @@
 [submodule "pong1/pong1/push"]
 	path = pong1/pong1/push
 	url = https://github.com/Ulydev/push.git
+[submodule "pong1/push"]
+	path = pong1/push
+	url = https://github.com/Ulydev/push.git
